@@ -1,15 +1,15 @@
-# 🎁 Amigo Secreto Online
+**Sorteio de nomes Online
 
-Uma forma imparcial de sortear a brncadeira Amigo Secreto simples e eficiente para organizar sua brincadeira, seja amigo secreto, amigo late, para todo tipo de evento! Desenvolvido com HTML, CSS e JavaScript.
+Uma forma imparcial de sortear nomes para brincadeira do Amigo Secreto simples e eficiente para organizar sua  seja amigo secreto, amigo chocolate, sortear pessoas em um bingo para todo tipo de evento! Desenvolvido com HTML, CSS e JavaScript. Sua imaginação quem manda!
 
-🔗 **Link do Projeto:** 
+🔗 **Link do Projeto:** https://github.com/Stephanietcae/AmigoSecretoOne/blob/main/Challenge_AmigoSecreto/
 
 ## Objetivo
 
 - ✅ Adicionar participantes
 - 📋 Listar participante em tempo real 
 - 🎲 Sortear nomes aleatoriamente 
-- 📋 Lista visual atualizada em tempo real
+- 📋 Lista de participante atualizada em tempo real
 
 ##  Tecnologias 
 - HTML
