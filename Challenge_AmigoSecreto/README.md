@@ -9,8 +9,8 @@ Uma forma imparcial de sortear nomes para brincadeira do Amigo Secreto simples e
 - ✅ Adicionar participantes
 - 📋 Listar participante em tempo real 
 - 🎲 Sortear nomes aleatoriamente 
-- 📋 Lista de participante atualizada em tempo real
-
+- 📋 Lista de participante atualizada na medida que adiciona
+- 
 ##  Tecnologias 
 - HTML
 - CSS
